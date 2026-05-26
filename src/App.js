@@ -607,7 +607,7 @@ export default function MindaApp() {
         <div style={{ padding: "1rem 1.5rem 0.75rem", background: C.surface, borderBottom: `1px solid ${C.border}`, display: "flex", alignItems: "center", justifyContent: "space-between", position: "sticky", top: 0, zIndex: 10 }}>
           <div style={{ display: "flex", alignItems: "center", gap: 8 }}>
             <div style={{ width: 28, height: 28, borderRadius: 8, background: C.green, display: "flex", alignItems: "center", justifyContent: "center", fontSize: 14 }}>🧠</div>
-            <span style={{ fontSize: 17, fontWeight: 700, fontFamily: "'Noto Serif KR', serif", letterSpacing: "-0.01em" }}>마인다</span>
+            <span style={{ fontSize: 17, fontWeight: 700, fontFamily: "'Noto Serif KR', serif", letterSpacing: "-0.01em" }}>브레인버디</span>
           </div>
           <span style={{ fontSize: 12, color: C.textLight, background: C.greenSoft, padding: "3px 10px", borderRadius: 20, border: `1px solid ${C.greenBorder}`, fontWeight: 500 }}>두뇌 건강 앱</span>
         </div>
